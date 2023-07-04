@@ -1,0 +1,3 @@
+C:/Users/OMEGAPEPE/CLionProjects/Snakeish/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/OMEGAPEPE/CLionProjects/Snakeish/cmake-build-debug/CMakeFiles/Snakeish.dir
+C:/Users/OMEGAPEPE/CLionProjects/Snakeish/cmake-build-debug/CMakeFiles/edit_cache.dir
